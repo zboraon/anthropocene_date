@@ -134,7 +134,7 @@ age,age error,proxy,proxyerror,proxyname,researchername,comments
 1986.625,3,3.509551,NA,2_kuwae_2_R137Cs_BMC19S13,2_kuwae,
 1984.6607142857,3,3.846397,NA,2_kuwae_2_R137Cs_BMC19S13,2_kuwae,
 1982.6964285714,3,3.432255,NA,2_kuwae_2_R137Cs_BMC19S13,2_kuwae,
-1982.5,3,3.594322,NA,2_kuwae_2_R137Cs_BMC19S13,2_kuwae,
+1982.51,3,3.594322,NA,2_kuwae_2_R137Cs_BMC19S13,2_kuwae,"slightly modified the date, from 1982.50 to 1982.51"
 1982.5,3,2.533755,NA,2_kuwae_2_R137Cs_BMC19S13,2_kuwae,
 1982.1216216216,3,2.45295,NA,2_kuwae_2_R137Cs_BMC19S13,2_kuwae,
 1980.2297297297,2,3.905419,NA,2_kuwae_2_R137Cs_BMC19S13,2_kuwae,
@@ -154,9 +154,9 @@ age,age error,proxy,proxyerror,proxyname,researchername,comments
 1954.2333333333,1,1.096863,NA,2_kuwae_2_R137Cs_BMC19S13,2_kuwae,
 1953.9,1,0.3706394,NA,2_kuwae_2_R137Cs_BMC19S13,2_kuwae,
 1953.5666666667,1,1.854334,NA,2_kuwae_2_R137Cs_BMC19S13,2_kuwae,
-1953.5,1,0.9419022,NA,2_kuwae_2_R137Cs_BMC19S13,2_kuwae,
+1953.51,1,0.9419022,NA,2_kuwae_2_R137Cs_BMC19S13,2_kuwae,"slightly modified the date, from 1953.50 to 1953.51"
 1953.5,1,1.312614,NA,2_kuwae_2_R137Cs_BMC19S13,2_kuwae,
-1953.5,1,1.007698,NA,2_kuwae_2_R137Cs_BMC19S13,2_kuwae,
+1953.49,1,1.007698,NA,2_kuwae_2_R137Cs_BMC19S13,2_kuwae,"slightly modified the date, from 1953.50 to 1953.49"
 1943.8614457831,1,0.8399074,NA,2_kuwae_2_R137Cs_BMC19S13,2_kuwae,
 1935.186746988,2,0.7966306,NA,2_kuwae_2_R137Cs_BMC19S13,2_kuwae,
 1930.9782608696,2,1.351398,NA,2_kuwae_2_R137Cs_BMC19S13,2_kuwae,
