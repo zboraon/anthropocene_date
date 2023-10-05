@@ -170,7 +170,7 @@ age,age error,proxy,proxyerror,proxyname,researchername,comments
 1989.5,1.5,0.000798089,NA,4_mccarthy_1_239240Pu_CRA192FTD1,4_mccarthy,
 1983.5,1.5,0.001071464,NA,4_mccarthy_1_239240Pu_CRA192FTD1,4_mccarthy,
 1977.5,1.5,0.002111836,NA,4_mccarthy_1_239240Pu_CRA192FTD1,4_mccarthy,
-1970.5,0.5,0.004248159,NA,4_mccarthy_1_239240Pu_CRA192FTD1,4_mccarthy,
+1970.51,0.5,0.004248159,NA,4_mccarthy_1_239240Pu_CRA192FTD1,4_mccarthy,"slightly modified the date, from 1970.50 to 1970.51"
 1970.5,0.5,0.003222404,NA,4_mccarthy_1_239240Pu_CRA192FTD1,4_mccarthy,
 1965.5,1.5,0.017803053,NA,4_mccarthy_1_239240Pu_CRA192FTD1,4_mccarthy,
 1959.5,1.5,0.014029782,NA,4_mccarthy_1_239240Pu_CRA192FTD1,4_mccarthy,
