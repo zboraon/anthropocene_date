@@ -1,2 +1,2 @@
 # anthropocene_date
-Assigning the start date of the Anthropoce through a multilevel Bayesian change point model 
+This repository is for the manuscript dealing with the onset of the Anthropocene. The change point algorithms as explained in the manuscript for Pu, SCPs and C-14 data are presented. Furthermore, you can find the code for the simulation presented in the manuscript.
